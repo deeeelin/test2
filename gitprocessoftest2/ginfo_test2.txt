@@ -1,5 +1,0 @@
-url:https://github.com/deeeelin/test2.git
-repn:test2
-route:/Users/derek/Desktop/test2
-prevo:_nobranch
-prevt:_nobranch
